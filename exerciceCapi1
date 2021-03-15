@@ -1,0 +1,5 @@
+a = int(input("Baga a: "))
+b = int(input("Baga b: "))
+c = int(input("baga c: "))
+
+print("volumen = ", a*b*c)
